@@ -6,7 +6,7 @@ One can find the demopage for these colorschemes at:
 http://atelierbram.github.io/syntax-highlighting/atelier-schemes/ 
 
 Downloads at the GitHub repo: 
-https://github.com/atelierbram/syntax-highlighting/tree/master/atelier-schemes/output/vim 
+https://github.com/atelierbram/vim-colors_atelier-schemes
 
 More information on this particular colorscheme: 
 http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune
@@ -16,3 +16,6 @@ http://atelierbram.github.io/syntax-highlighting/assets/img/dune-dark_vim_640x42
 
 Screenshot light version: 
 http://atelierbram.github.io/syntax-highlighting/assets/img/dune-light_vim_640x425.png
+
+Changes:
+http://atelierbram.github.io/syntax-highlighting/atelier-schemes/demo/changes-03-2015.html#dune
